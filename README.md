@@ -2,21 +2,6 @@ Interactive Story Project: 'The Symphony of Lost Souls'
 
 By Isabel Kyle
 
-Table Of Contents
-
-Instructions - Line 13
-
-Functions - Line 19
-
-Conditionals - Line 25
-
-Lists - Line 41
-
-Nested Loop - Line 46
-
-Recursive Funtions - Line 49
-
-Final Statement - Line 54
 
 
 Instructions:
